@@ -88,6 +88,7 @@
 			isa = PBXGroup;
 			children = (
 				7AAC042C1B4D252E00DCBD6C /* AppDelegate.swift */,
+				7AAC04561B4D2CD900DCBD6C /* CustomNavigationController.swift */,
 				7AAC044C1B4D255E00DCBD6C /* ViewControllerTabChild1.swift */,
 				7AAC044D1B4D255E00DCBD6C /* ViewControllerTabChild2.swift */,
 				7AAC044E1B4D255E00DCBD6C /* ViewControllerTabChild3.swift */,
@@ -96,7 +97,6 @@
 				7AAC04501B4D255E00DCBD6C /* SecondViewControllre.swift */,
 				7AAC04331B4D252F00DCBD6C /* Images.xcassets */,
 				7AAC042A1B4D252E00DCBD6C /* Supporting Files */,
-				7AAC04561B4D2CD900DCBD6C /* CustomNavigationController.swift */,
 			);
 			path = mihon;
 			sourceTree = "<group>";

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0C6A814B-41D4-419A-B1FC-A8086081B69C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>mihon</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BF709E1D369F6AE89032C81F07B65DF3DD38C1FA</key>
+		<string>https://github.com/yamasakitomohiro/seminar1_sample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>mihon.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BF709E1D369F6AE89032C81F07B65DF3DD38C1FA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yamasakitomohiro/seminar1_sample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BF709E1D369F6AE89032C81F07B65DF3DD38C1FA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BF709E1D369F6AE89032C81F07B65DF3DD38C1FA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mihon</string>
+		</dict>
+	</array>
+</dict>
+</plist>
