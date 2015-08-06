@@ -19,7 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         self.window = UIWindow(frame: UIScreen.mainScreen().bounds)
         let tabBarController = UITabBarController()
-        let navigationContrller = UINavigationController(rootViewController: FirstViewController())
+        let navigationContrller = CustomNavigationController(rootViewController: FirstViewController())
         navigationContrller.setNavigationBarHidden(true, animated: false)
         navigationContrller.tabBarItem.title = "child1"
         tabBarController.setViewControllers([navigationContrller,ViewControllerTabChild2(),ViewControllerTabChild3()], animated: true)
