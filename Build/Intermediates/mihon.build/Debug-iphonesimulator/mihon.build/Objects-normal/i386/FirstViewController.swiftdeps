@@ -1,0 +1,46 @@
+### Swift dependencies file v0 ###
+provides:
+- "FirstViewController"
+nominals:
+- "C5mihon19FirstViewController"
+class-members:
+- "nextScene"
+- "viewDidLoad"
+top-level:
+- !private "BooleanLiteralType"
+- !private "SecondViewControllre"
+- "UIButton"
+- !private "UIControlState"
+- "UIViewController"
+- !private "UIColor"
+- !private "StringLiteralType"
+- !private "UIButtonType"
+- !private "UIControlEvents"
+member-access:
+- "CSo8NSObject"
+- !private "Sq"
+- !private "CSo6UIView"
+- !private "CSo8UIButton"
+- !private "OSC12UIButtonType"
+- !private "CSo7UIColor"
+- "CSo11UIResponder"
+- !private "VSC15UIControlEvents"
+- "PSs9AnyObject"
+- !private "C5mihon20SecondViewControllre"
+- !private "CSo22UINavigationController"
+- "C5mihon19FirstViewController"
+- !private "CSo9UIControl"
+- !private "VSC14UIControlState"
+- "CSo16UIViewController"
+- !private "V10ObjectiveC8Selector"
+dynamic-lookup:
+cross-module:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Security.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/CoreImage.swiftmodule"

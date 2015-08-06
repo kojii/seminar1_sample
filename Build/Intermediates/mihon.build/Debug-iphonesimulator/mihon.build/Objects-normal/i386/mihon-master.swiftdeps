@@ -1,0 +1,10 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "2e0661881dde2d09055b456db8783e27"
+inputs: 
+- "/Users/yamasakitomohiro/Desktop/warkingFolder/seminar/seminar1/mihon/mihon/FirstViewController.swift"
+- "/Users/yamasakitomohiro/Desktop/warkingFolder/seminar/seminar1/mihon/mihon/AppDelegate.swift"
+- "/Users/yamasakitomohiro/Desktop/warkingFolder/seminar/seminar1/mihon/mihon/SecondViewControllre.swift"
+- "/Users/yamasakitomohiro/Desktop/warkingFolder/seminar/seminar1/mihon/mihon/ViewControllerTabChild3.swift"
+- "/Users/yamasakitomohiro/Desktop/warkingFolder/seminar/seminar1/mihon/mihon/ViewControllerTabChild1.swift"
+- "/Users/yamasakitomohiro/Desktop/warkingFolder/seminar/seminar1/mihon/mihon/ViewControllerTabChild2.swift"
+- "/Users/yamasakitomohiro/Desktop/warkingFolder/seminar/seminar1/mihon/mihon/CustomNavigationController.swift"

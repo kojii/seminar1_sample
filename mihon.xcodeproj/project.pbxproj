@@ -8,11 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		7AAC042D1B4D252E00DCBD6C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AAC042C1B4D252E00DCBD6C /* AppDelegate.swift */; };
-		7AAC042F1B4D252E00DCBD6C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AAC042E1B4D252E00DCBD6C /* ViewController.swift */; };
-		7AAC04321B4D252E00DCBD6C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7AAC04301B4D252E00DCBD6C /* Main.storyboard */; };
 		7AAC04341B4D252F00DCBD6C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7AAC04331B4D252F00DCBD6C /* Images.xcassets */; };
-		7AAC04371B4D252F00DCBD6C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7AAC04351B4D252F00DCBD6C /* LaunchScreen.xib */; };
 		7AAC04431B4D252F00DCBD6C /* mihonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AAC04421B4D252F00DCBD6C /* mihonTests.swift */; };
+		7AAC04511B4D255E00DCBD6C /* ViewControllerTabChild1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AAC044C1B4D255E00DCBD6C /* ViewControllerTabChild1.swift */; };
+		7AAC04521B4D255E00DCBD6C /* ViewControllerTabChild2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AAC044D1B4D255E00DCBD6C /* ViewControllerTabChild2.swift */; };
+		7AAC04531B4D255E00DCBD6C /* ViewControllerTabChild3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AAC044E1B4D255E00DCBD6C /* ViewControllerTabChild3.swift */; };
+		7AAC04541B4D255E00DCBD6C /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AAC044F1B4D255E00DCBD6C /* FirstViewController.swift */; };
+		7AAC04551B4D255E00DCBD6C /* SecondViewControllre.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AAC04501B4D255E00DCBD6C /* SecondViewControllre.swift */; };
+		7AAC04571B4D2CD900DCBD6C /* CustomNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AAC04561B4D2CD900DCBD6C /* CustomNavigationController.swift */; };
+		7AAC04591B4D3ABD00DCBD6C /* aiko-banner@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7AAC04581B4D3ABD00DCBD6C /* aiko-banner@2x.jpg */; };
+		7AAC045B1B4D3FD700DCBD6C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7AAC045A1B4D3FD700DCBD6C /* LaunchScreen.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,13 +34,18 @@
 		7AAC04271B4D252E00DCBD6C /* mihon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mihon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7AAC042B1B4D252E00DCBD6C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7AAC042C1B4D252E00DCBD6C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		7AAC042E1B4D252E00DCBD6C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		7AAC04311B4D252E00DCBD6C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7AAC04331B4D252F00DCBD6C /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		7AAC04361B4D252F00DCBD6C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		7AAC043C1B4D252F00DCBD6C /* mihonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mihonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7AAC04411B4D252F00DCBD6C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7AAC04421B4D252F00DCBD6C /* mihonTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mihonTests.swift; sourceTree = "<group>"; };
+		7AAC044C1B4D255E00DCBD6C /* ViewControllerTabChild1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerTabChild1.swift; sourceTree = "<group>"; };
+		7AAC044D1B4D255E00DCBD6C /* ViewControllerTabChild2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerTabChild2.swift; sourceTree = "<group>"; };
+		7AAC044E1B4D255E00DCBD6C /* ViewControllerTabChild3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerTabChild3.swift; sourceTree = "<group>"; };
+		7AAC044F1B4D255E00DCBD6C /* FirstViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		7AAC04501B4D255E00DCBD6C /* SecondViewControllre.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewControllre.swift; sourceTree = "<group>"; };
+		7AAC04561B4D2CD900DCBD6C /* CustomNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomNavigationController.swift; sourceTree = "<group>"; };
+		7AAC04581B4D3ABD00DCBD6C /* aiko-banner@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "aiko-banner@2x.jpg"; sourceTree = "<group>"; };
+		7AAC045A1B4D3FD700DCBD6C /* LaunchScreen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LaunchScreen.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,11 +88,15 @@
 			isa = PBXGroup;
 			children = (
 				7AAC042C1B4D252E00DCBD6C /* AppDelegate.swift */,
-				7AAC042E1B4D252E00DCBD6C /* ViewController.swift */,
-				7AAC04301B4D252E00DCBD6C /* Main.storyboard */,
+				7AAC044C1B4D255E00DCBD6C /* ViewControllerTabChild1.swift */,
+				7AAC044D1B4D255E00DCBD6C /* ViewControllerTabChild2.swift */,
+				7AAC044E1B4D255E00DCBD6C /* ViewControllerTabChild3.swift */,
+				7AAC044F1B4D255E00DCBD6C /* FirstViewController.swift */,
+				7AAC045A1B4D3FD700DCBD6C /* LaunchScreen.xib */,
+				7AAC04501B4D255E00DCBD6C /* SecondViewControllre.swift */,
 				7AAC04331B4D252F00DCBD6C /* Images.xcassets */,
-				7AAC04351B4D252F00DCBD6C /* LaunchScreen.xib */,
 				7AAC042A1B4D252E00DCBD6C /* Supporting Files */,
+				7AAC04561B4D2CD900DCBD6C /* CustomNavigationController.swift */,
 			);
 			path = mihon;
 			sourceTree = "<group>";
@@ -90,6 +104,7 @@
 		7AAC042A1B4D252E00DCBD6C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				7AAC04581B4D3ABD00DCBD6C /* aiko-banner@2x.jpg */,
 				7AAC042B1B4D252E00DCBD6C /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,9 +207,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7AAC04321B4D252E00DCBD6C /* Main.storyboard in Resources */,
-				7AAC04371B4D252F00DCBD6C /* LaunchScreen.xib in Resources */,
 				7AAC04341B4D252F00DCBD6C /* Images.xcassets in Resources */,
+				7AAC045B1B4D3FD700DCBD6C /* LaunchScreen.xib in Resources */,
+				7AAC04591B4D3ABD00DCBD6C /* aiko-banner@2x.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,8 +227,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7AAC042F1B4D252E00DCBD6C /* ViewController.swift in Sources */,
+				7AAC04541B4D255E00DCBD6C /* FirstViewController.swift in Sources */,
 				7AAC042D1B4D252E00DCBD6C /* AppDelegate.swift in Sources */,
+				7AAC04551B4D255E00DCBD6C /* SecondViewControllre.swift in Sources */,
+				7AAC04531B4D255E00DCBD6C /* ViewControllerTabChild3.swift in Sources */,
+				7AAC04511B4D255E00DCBD6C /* ViewControllerTabChild1.swift in Sources */,
+				7AAC04521B4D255E00DCBD6C /* ViewControllerTabChild2.swift in Sources */,
+				7AAC04571B4D2CD900DCBD6C /* CustomNavigationController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -234,25 +254,6 @@
 			targetProxy = 7AAC043D1B4D252F00DCBD6C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		7AAC04301B4D252E00DCBD6C /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				7AAC04311B4D252E00DCBD6C /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		7AAC04351B4D252F00DCBD6C /* LaunchScreen.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				7AAC04361B4D252F00DCBD6C /* Base */,
-			);
-			name = LaunchScreen.xib;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		7AAC04441B4D252F00DCBD6C /* Debug */ = {
@@ -291,7 +292,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -329,7 +330,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -409,6 +410,7 @@
 				7AAC04481B4D252F00DCBD6C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7AAC04491B4D252F00DCBD6C /* Build configuration list for PBXNativeTarget "mihonTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +419,7 @@
 				7AAC044B1B4D252F00DCBD6C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
